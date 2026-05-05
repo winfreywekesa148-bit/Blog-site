@@ -9,3 +9,5 @@ function ArticleList({ posts }) {
     </div>
     );
 }
+
+export default ArticleList;
