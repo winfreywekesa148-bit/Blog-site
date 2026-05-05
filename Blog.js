@@ -6,8 +6,7 @@ const blog = {
         {
             title: "The Best Pizza in Town",
             content: "I recently visited Joe's Pizza and it was amazing! The crust was crispy and the toppings were fresh. Highly recommend!",
-        }
-    ]
-};
+            date: "2024-06-01",
+            index: 1
     
 };
